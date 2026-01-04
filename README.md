@@ -30,7 +30,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,next,react,js,tailwind,aws,express,mongodb,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,next,react,js,tailwind,aws,express,mongodb,docker,figma" />
 </p>
 
 
