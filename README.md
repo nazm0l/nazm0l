@@ -16,15 +16,30 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/14b-Y-hY8R8GP5G9gl1ZMnw8zsZkgEA3K/view?usp=sharing](https://drive.google.com/file/d/14b-Y-hY8R8GP5G9gl1ZMnw8zsZkgEA3K/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/nazm0l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazm0l" height="30" width="40" /></a>
-<a href="https://discord.gg/509363349851602955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="509363349851602955" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/nazm0l" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://discord.gg/509363349851602955" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" />
+  </a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
-![My Skills](https://skillicons.dev/icons?i=ts,next,react,js,tailwind,aws,express,mongodb,docker)
-<span><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=nazm0l&" alt="nazm0l" /></span>
 
-<span>&nbsp;<img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=nazm0l&show_icons=true&locale=en" alt="nazm0l" /></span>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,next,react,js,tailwind,aws,express,mongodb,docker" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazm0l&show_icons=true&locale=en&layout=compact" alt="nazm0l" /></p>
+
+<p align="center">
+  <img width="450" src="https://streak-stats.demolab.com?user=nazm0l&theme=default" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=nazm0l&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazm0l&layout=compact" />
+</p>
+
