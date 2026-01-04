@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-(https://skillicons.dev/icons?i=ts,next,react,js,tailwind,aws,express,mongodb,docker)
+[(https://skillicons.dev/icons?i=ts,next,react,js,tailwind,aws,express,mongodb,docker)]
 <span><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=nazm0l&" alt="nazm0l" /></span>
 
 <span>&nbsp;<img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=nazm0l&show_icons=true&locale=en" alt="nazm0l" /></span>
